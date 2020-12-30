@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+<head>
+    <meta charset="utf-8"/>
+    <title>Tudo sobre Google Glass</title>
+    <link rel="stylesheet"href="css/estilo.css"/>
+    <link rel="stylesheet" href="css/media.css"/>
+</head>  
+<script src="javascript/funcoes.js"></script>
+<body>
+<div id ="interface">
+	<header id="cabecalho">
+	<hgroup>
+ 	<h1>Google Glass</h1>
+	<h2>A revolução do Google está chegando</h2>
+	</hgroup>
+	<img id="icone"src="imagens/multimidia.png"/>
+	
+	<nav id="menu">
+	<h1> Menu Principal</h1>
+	<ul type="disc">	
+		<li onmouseover="mudaFoto('imagens/home.png')" onmouseout="mudaFoto('imagens/multimidia.png')"><a href="index.html">Home</a></li>
+		<li onmousemove="mudaFoto('imagens/especificacoes.png')" onmouseout="mudaFoto('imagens/multimidia.png')"><a href="specs.html">Especificações</a></li>
+		<li onmousemove="mudaFoto('imagens/fotos.png')" onmouseout="mudaFoto('imagens/multimidia.png')"><a href="fotos.html">Fotos</a></li>
+		<li onmousemove="mudaFoto('imagens/multimidia.png')" onmouseout="mudaFoto('imagens/multimidia.png')"><a href="multimidia.html">Multimídia</a></li>
+		<li onmousemove="mudaFoto('imagens/contato.png')" onmouseout="mudaFoto('imagens/multimidia.png')"><a href="fale-conosco.html">Fale conosco</a></li>
+	</ul>
+	</nav>	
+	</header>
+
+
+<section id="corpo-full">
+	<article id="noticia-principal">
+		<header id="cabecalho-artigo">
+			<hgroup>
+				<h3>Glass > Multimídia</h3>
+				<h1>Sons e Vídeos </h1>
+				<h2>por Daniel Moura</h2>
+				<h3 class="direita">Atualizado em 27/dezembro/2020</h3>
+	</hgroup>
+</header>
+
+<div id="tv-radio">
+	<audio id="musica" controls="controls">
+		<source src="media/Lost-sky.mp3" type="audio/mpeg"/>
+		Desculpe, mas não foi possível carregar este áudio. (Verifique se seu navegador está atualizado ).
+	</audio>
+	<video id="filme" controls="controls" poster="imagens/video-mini03.jpg"/>
+		<source src="media/getting-started.mp4" type="video/mp4"/>
+		<source src="media/getting-started.webm" type="video/webm"/>
+		Desculpe, mas não foi possível carregar este vídeo.
+	</video>
+</div>
+	
+	<h1> VEJA TAMBÉM VÍDEOS DO YOUTUBE</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90uPbUirZ3I?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	</article>
+</section>
+
+<footer id="rodape">
+<p>Copyright &copy; 2013-2020-by Daniel Moura <br/>
+<a href="https://facebook.com" target="_blank">Facebook</a>
+<a href="https://twitter.com" target="_blank">Twitter</a></p>
+</footer>
+</div>
+</body>
+</html>  
