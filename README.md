@@ -1,4 +1,4 @@
 # Projeto Google Class- Site feito com HTML5 CSS3 e JavaScript
- Site construído com auxílio do Curso em vídeo. Ano de 2013, mas atualizado em 2020.
+ Site construído com auxílio do  [***Curso em vídeo***](https://www.youtube.com/c/CursoemV%C3%ADdeo/featured). Ano do curso: 2013, mas atualizado em 2020.
 
 ***Se ficou curioso para saber como ficou o site*** [click aqui](https://mouracfs007.github.io/Projeto-Google-Glass-Site-feito-com-HTML5-CSS3-e-JavaScript/index.html)
