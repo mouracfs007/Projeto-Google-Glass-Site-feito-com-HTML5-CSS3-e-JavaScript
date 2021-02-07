@@ -10,3 +10,6 @@
 As tecnologias utilizadas foram HTML5, CSS3 e  JavaScript. 
 
 Todas as imagens e os conteúdos estão disponíveis de forma livre para estudos e afins.
+
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/mouracfs007/Projeto-Google-Glass-Site-feito-com-HTML5-CSS3-e-JavaScript/new/main)
